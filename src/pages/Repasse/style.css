@@ -1,0 +1,31 @@
+.ma-content-filter{
+    height: 10%;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
+
+.ma-content-filter{
+    display: flex;
+}
+
+.ma-content-table {
+    height: 90%;
+    padding: 10px;
+}
+
+.ma-content-table table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+.ma-content-table th, 
+.ma-content-table td 
+{
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    
+  }
+
+  .ma-content-table tr:nth-child(even) {background-color: #f2f2f2;}

@@ -1,0 +1,10 @@
+.ma-link{
+    text-align: center;
+}
+
+.ma-link a{
+    text-decoration: none;
+    color: #ffffff;
+    cursor: pointer;
+    margin: 5px;
+}

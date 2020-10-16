@@ -1,0 +1,19 @@
+.ma-content{
+    display: flex;
+    background-color: #ffffff;
+    height: 90%;
+
+}
+
+.ma-content-menu{
+    width: 20%;
+    height: 100%;
+    background-color: #ececea;
+
+}
+
+.ma-content-body{
+    width: 80%;
+    height: 100%;
+}
+  

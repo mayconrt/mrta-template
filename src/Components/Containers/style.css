@@ -1,0 +1,8 @@
+.ma-container{
+    background-color: #7b709c;
+}
+
+.ma-grid{
+ display: grid;
+ justify-content: center;
+}
