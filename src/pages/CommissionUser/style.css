@@ -11,8 +11,6 @@
 
 .ma-content-table {
     height: 90%;
-    max-height: 420px;
-    overflow:auto;
     padding: 10px;
 }
 
@@ -31,10 +29,3 @@
   }
 
   .ma-content-table tr:nth-child(even) {background-color: #f2f2f2;}
-
-  .ma-log{
-      margin-top: 20px;
-      padding: 20px;
-      max-height: 200px;
-      overflow: auto;
-  }

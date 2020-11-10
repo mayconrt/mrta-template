@@ -4,7 +4,12 @@ import './style.css'
 
 function InputText(props) {
     return (
-        <input type="text" className="ma-input"></input>
+        <input type="text" 
+               className="ma-input" 
+               placeholder={props.placeholder}
+               name={props.name}
+               onChange={props.onChange}
+        ></input>
     )
 }
 
